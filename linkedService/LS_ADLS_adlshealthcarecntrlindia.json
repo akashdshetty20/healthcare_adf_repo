@@ -1,0 +1,10 @@
+{
+	"name": "LS_ADLS_adlshealthcarecntrlindia",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adlshealthcarecntrlindia.dfs.core.windows.net/"
+		}
+	}
+}
