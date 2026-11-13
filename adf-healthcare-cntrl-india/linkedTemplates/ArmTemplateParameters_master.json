@@ -8,6 +8,18 @@
 		"LS_ADLS_adlshealthcarecntrlindia_properties_typeProperties_url": {
 			"value": "https://adlshealthcarecntrlindia.dfs.core.windows.net/"
 		},
+		"LS_AzureDatabricks_properties_typeProperties_existingClusterId": {
+			"value": "1107-180136-c891osrf"
+		},
+		"LS_AzureSQL_properties_typeProperties_server": {
+			"value": "healthcare-azure-sql-server.database.windows.net"
+		},
+		"LS_AzureSQL_properties_typeProperties_database": {
+			"value": "sql-db-healthcare"
+		},
+		"LS_AzureSQL_properties_typeProperties_userName": {
+			"value": "healthcare"
+		},
 		"LS_PostgreSQL_properties_typeProperties_server": {
 			"value": "ep-red-sky-b4hwlmgr-pooler.c-6.us-east-2.aws.neon.tech"
 		},
@@ -19,18 +31,6 @@
 		},
 		"kv_healthcarecntrlindia_properties_typeProperties_baseUrl": {
 			"value": "https://kvhealthcarecntrlindia.vault.azure.net/"
-		},
-		"LS_AzureSQL_properties_typeProperties_server": {
-			"value": "healthcare-azure-sql-server.database.windows.net"
-		},
-		"LS_AzureSQL_properties_typeProperties_database": {
-			"value": "sql-db-healthcare"
-		},
-		"LS_AzureSQL_properties_typeProperties_userName": {
-			"value": "healthcare"
-		},
-		"LS_AzureDatabricks_properties_typeProperties_existingClusterId": {
-			"value": "1107-180136-c891osrf"
 		},
 		"containerUri": {
 			"value": ""
