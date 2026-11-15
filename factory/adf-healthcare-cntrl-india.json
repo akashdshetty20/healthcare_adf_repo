@@ -1,0 +1,12 @@
+{
+	"name": "adf-healthcare-cntrl-india",
+	"properties": {
+		"globalParameters": {
+			"email_receipient": {
+				"type": "string",
+				"value": "mypracticemsacc26@outlook.com; akashdshetty10@gmail.com"
+			}
+		}
+	},
+	"location": "centralindia"
+}
