@@ -5,6 +5,10 @@
 			"email_receipient": {
 				"type": "string",
 				"value": "mypracticemsacc26@outlook.com; akashdshetty10@gmail.com"
+			},
+			"env": {
+				"type": "string",
+				"value": "DEV"
 			}
 		}
 	},
